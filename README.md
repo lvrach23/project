@@ -1,2 +1,3 @@
-# project
-fest project
+# Учусь пользоваться GIThub
+
+Просто текст
